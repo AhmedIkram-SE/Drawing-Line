@@ -1,0 +1,1040 @@
+fileFormatVersion: 2
+guid: b089cb015a377dc44b367b1ba98ea9f8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5155204634782752688
+    second: Level-Complete-Tag-colored_0
+  - first:
+      213: -9179446432649249756
+    second: Level-Complete-Tag-colored_1
+  - first:
+      213: -7122638630594028818
+    second: Level-Complete-Tag-colored_2
+  - first:
+      213: 1558986079009950288
+    second: Level-Complete-Tag-colored_3
+  - first:
+      213: -8355151697881708215
+    second: Level-Complete-Tag-colored_4
+  - first:
+      213: -3839919940077121217
+    second: Level-Complete-Tag-colored_5
+  - first:
+      213: -1781284432335348421
+    second: Level-Complete-Tag-colored_6
+  - first:
+      213: 3002445612123186920
+    second: Level-Complete-Tag-colored_7
+  - first:
+      213: -4657435932211543275
+    second: Level-Complete-Tag-colored_8
+  - first:
+      213: -1114229793654339272
+    second: Level-Complete-Tag-colored_9
+  - first:
+      213: 5867060017453080314
+    second: Level-Complete-Tag-colored_10
+  - first:
+      213: -7585306074706957876
+    second: Level-Complete-Tag-colored_11
+  - first:
+      213: -5616545888702385306
+    second: Level-Complete-Tag-colored_12
+  - first:
+      213: -5450117481152532592
+    second: Level-Complete-Tag-colored_13
+  - first:
+      213: -7993815918139918712
+    second: Level-Complete-Tag-colored_14
+  - first:
+      213: 8537696586269752156
+    second: Level-Complete-Tag-colored_15
+  - first:
+      213: 5899923743558646958
+    second: Level-Complete-Tag-colored_16
+  - first:
+      213: 4940180761019540547
+    second: Level-Complete-Tag-colored_17
+  - first:
+      213: -3956672112553849783
+    second: Level-Complete-Tag-colored_18
+  - first:
+      213: -8466313622495311260
+    second: Level-Complete-Tag-colored_19
+  - first:
+      213: 8158983177069386104
+    second: Level-Complete-Tag-colored_20
+  - first:
+      213: 7618147641017833669
+    second: Level-Complete-Tag-colored_21
+  - first:
+      213: 1630626571608048677
+    second: Level-Complete-Tag-colored_22
+  - first:
+      213: 5942000293769113938
+    second: Level-Complete-Tag-colored_23
+  - first:
+      213: 3378445592912514796
+    second: Level-Complete-Tag-colored_24
+  - first:
+      213: -193655297188668589
+    second: Level-Complete-Tag-colored_25
+  - first:
+      213: 787253090308748843
+    second: Level-Complete-Tag-colored_26
+  - first:
+      213: 8438832599573245665
+    second: Level-Complete-Tag-colored_27
+  - first:
+      213: 2678674718201586986
+    second: Level-Complete-Tag-colored_28
+  - first:
+      213: 862147651497201395
+    second: Level-Complete-Tag-colored_29
+  - first:
+      213: 2885850340486879156
+    second: Level-Complete-Tag-colored_30
+  - first:
+      213: -4607489212347794479
+    second: Level-Complete-Tag-colored_31
+  - first:
+      213: -7118056715341699001
+    second: Level-Complete-Tag-colored_32
+  - first:
+      213: -9034749602650609173
+    second: Level-Complete-Tag-colored_33
+  - first:
+      213: 7739684734765437268
+    second: Level-Complete-Tag-colored_34
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Level-Complete-Tag-colored_0
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 589
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 050a357b2b80578b0800000000000000
+      internalID: -5155204634782752688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level-Complete-Tag-colored_1
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 600
+        width: 11
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42cf633ba1e0c9080800000000000000
+      internalID: -9179446432649249756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level-Complete-Tag-colored_2
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 593
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eead7ff17ed472d90800000000000000
+      internalID: -7122638630594028818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level-Complete-Tag-colored_3
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 371
+        width: 73
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05aca293491a2a510800000000000000
+      internalID: 1558986079009950288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level-Complete-Tag-colored_4
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 388
+        width: 23
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 949424b5cc98c0c80800000000000000
+      internalID: -8355151697881708215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level-Complete-Tag-colored_5
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 408
+        width: 164
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3193c5c82dd5bac0800000000000000
+      internalID: -3839919940077121217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level-Complete-Tag-colored_6
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 393
+        width: 55
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3dd7b61f3b9747e0800000000000000
+      internalID: -1781284432335348421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level-Complete-Tag-colored_7
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 377
+        width: 41
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e668086064daa920800000000000000
+      internalID: 3002445612123186920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level-Complete-Tag-colored_8
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 310
+        width: 139
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 513046022b67d5fb0800000000000000
+      internalID: -4657435932211543275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level-Complete-Tag-colored_9
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 246
+        width: 69
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8398317f7e57980f0800000000000000
+      internalID: -1114229793654339272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level-Complete-Tag-colored_10
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 251
+        width: 69
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afe1038300cfb6150800000000000000
+      internalID: 5867060017453080314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level-Complete-Tag-colored_11
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 251
+        width: 101
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc9aa7050549bb690800000000000000
+      internalID: -7585306074706957876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level-Complete-Tag-colored_12
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 250
+        width: 70
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 663b63f95450e02b0800000000000000
+      internalID: -5616545888702385306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level-Complete-Tag-colored_13
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 246
+        width: 61
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09fa1cfd60b4d54b0800000000000000
+      internalID: -5450117481152532592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level-Complete-Tag-colored_14
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 260
+        width: 105
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 886386786c2401190800000000000000
+      internalID: -7993815918139918712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level-Complete-Tag-colored_15
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 282
+        width: 57
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5b7ca08fcdfb7670800000000000000
+      internalID: 8537696586269752156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level-Complete-Tag-colored_16
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 223
+        width: 53
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eacb4b8b26db0e150800000000000000
+      internalID: 5899923743558646958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level-Complete-Tag-colored_17
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 228
+        width: 39
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 344e9ca5a3c0f8440800000000000000
+      internalID: 4940180761019540547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level-Complete-Tag-colored_18
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 197
+        width: 30
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94c888e4da31719c0800000000000000
+      internalID: -3956672112553849783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level-Complete-Tag-colored_19
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 102
+        width: 90
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46acd16ed9c918a80800000000000000
+      internalID: -8466313622495311260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level-Complete-Tag-colored_20
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 107
+        width: 109
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 879db9da8f78a3170800000000000000
+      internalID: 8158983177069386104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level-Complete-Tag-colored_21
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 112
+        width: 72
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c81955bae819b960800000000000000
+      internalID: 7618147641017833669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level-Complete-Tag-colored_22
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 111
+        width: 58
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 524c20a3a3621a610800000000000000
+      internalID: 1630626571608048677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level-Complete-Tag-colored_23
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 108
+        width: 67
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 251ff5df8c9367250800000000000000
+      internalID: 5942000293769113938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level-Complete-Tag-colored_24
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 102
+        width: 75
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceec882fd56a2ee20800000000000000
+      internalID: 3378445592912514796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level-Complete-Tag-colored_25
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 118
+        width: 35
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35b5232888fff4df0800000000000000
+      internalID: -193655297188668589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level-Complete-Tag-colored_26
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 206
+        width: 71
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b267e2cb382ecea00800000000000000
+      internalID: 787253090308748843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level-Complete-Tag-colored_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 36
+        width: 95
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eeac88d981cc1570800000000000000
+      internalID: 8438832599573245665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level-Complete-Tag-colored_28
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 93
+        width: 86
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a25a937c6709c2520800000000000000
+      internalID: 2678674718201586986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level-Complete-Tag-colored_29
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 95
+        width: 73
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fe8d6f98b6f6fb00800000000000000
+      internalID: 862147651497201395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level-Complete-Tag-colored_30
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 87
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b719a348999c0820800000000000000
+      internalID: 2885850340486879156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level-Complete-Tag-colored_31
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 29
+        width: 591
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dbb09f09f8ee00c0800000000000000
+      internalID: -4607489212347794479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level-Complete-Tag-colored_32
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 13
+        width: 357
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74869f66125973d90800000000000000
+      internalID: -7118056715341699001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level-Complete-Tag-colored_33
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 0
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be9a863ca1f1e9280800000000000000
+      internalID: -9034749602650609173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Level-Complete-Tag-colored_34
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 7
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45115397242e86b60800000000000000
+      internalID: 7739684734765437268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Level-Complete-Tag-colored_0: -5155204634782752688
+      Level-Complete-Tag-colored_1: -9179446432649249756
+      Level-Complete-Tag-colored_10: 5867060017453080314
+      Level-Complete-Tag-colored_11: -7585306074706957876
+      Level-Complete-Tag-colored_12: -5616545888702385306
+      Level-Complete-Tag-colored_13: -5450117481152532592
+      Level-Complete-Tag-colored_14: -7993815918139918712
+      Level-Complete-Tag-colored_15: 8537696586269752156
+      Level-Complete-Tag-colored_16: 5899923743558646958
+      Level-Complete-Tag-colored_17: 4940180761019540547
+      Level-Complete-Tag-colored_18: -3956672112553849783
+      Level-Complete-Tag-colored_19: -8466313622495311260
+      Level-Complete-Tag-colored_2: -7122638630594028818
+      Level-Complete-Tag-colored_20: 8158983177069386104
+      Level-Complete-Tag-colored_21: 7618147641017833669
+      Level-Complete-Tag-colored_22: 1630626571608048677
+      Level-Complete-Tag-colored_23: 5942000293769113938
+      Level-Complete-Tag-colored_24: 3378445592912514796
+      Level-Complete-Tag-colored_25: -193655297188668589
+      Level-Complete-Tag-colored_26: 787253090308748843
+      Level-Complete-Tag-colored_27: 8438832599573245665
+      Level-Complete-Tag-colored_28: 2678674718201586986
+      Level-Complete-Tag-colored_29: 862147651497201395
+      Level-Complete-Tag-colored_3: 1558986079009950288
+      Level-Complete-Tag-colored_30: 2885850340486879156
+      Level-Complete-Tag-colored_31: -4607489212347794479
+      Level-Complete-Tag-colored_32: -7118056715341699001
+      Level-Complete-Tag-colored_33: -9034749602650609173
+      Level-Complete-Tag-colored_34: 7739684734765437268
+      Level-Complete-Tag-colored_4: -8355151697881708215
+      Level-Complete-Tag-colored_5: -3839919940077121217
+      Level-Complete-Tag-colored_6: -1781284432335348421
+      Level-Complete-Tag-colored_7: 3002445612123186920
+      Level-Complete-Tag-colored_8: -4657435932211543275
+      Level-Complete-Tag-colored_9: -1114229793654339272
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
