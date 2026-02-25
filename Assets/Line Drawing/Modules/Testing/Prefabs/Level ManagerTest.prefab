@@ -9,9 +9,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1985667386371706191}
-  - component: {fileID: 6474460619621719285}
+  - component: {fileID: 7048637462579716908}
   m_Layer: 0
-  m_Name: Level Manager
+  m_Name: Level ManagerTest
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -32,7 +32,7 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &6474460619621719285
+--- !u!114 &7048637462579716908
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -41,8 +41,9 @@ MonoBehaviour:
   m_GameObject: {fileID: 4069270191268009585}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 1cdeb5b78153d8541b93fb3d2d4a2dbe, type: 3}
+  m_Script: {fileID: 11500000, guid: f3b3fcb7dd46e6f4baac42dd7c1d2cec, type: 3}
   m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::LevelManager
-  backgroundLinePrefab: {fileID: 4577956555659137198, guid: 2c1d2c3b81472e54b8c3e89fdd153591, type: 3}
-  drawingController: {fileID: 0}
+  m_EditorClassIdentifier: Assembly-CSharp::LevelManagerTest
+  backgroundLinePrefab: {fileID: 0}
+  isRecording: 0
+  minDistanceBetweenPoints: 0.1

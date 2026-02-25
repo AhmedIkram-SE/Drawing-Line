@@ -4,6 +4,7 @@ public class LevelManager : MonoBehaviour
 {
     #region Serialized Fields
     [SerializeField] private LineRenderer backgroundLinePrefab = null;
+    [SerializeField] private DrawingController drawingController = null; // NEW LINE
     #endregion
 
     #region Private Variables
@@ -45,6 +46,10 @@ public class LevelManager : MonoBehaviour
         for (int i = 0; i < config.shapePoints.Count; i++)
         {
             ghostLine.SetPosition(i, config.shapePoints[i]);
+        }
+        if (drawingController != null)
+        {
+            drawingController.SetupTracing(config.shapePoints);
         }
     }
     #endregion
