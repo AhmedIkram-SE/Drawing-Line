@@ -9,11 +9,13 @@
     "com.unity.2d.tilemap.extras": "5.0.1",
     "com.unity.collab-proxy": "2.10.2",
     "com.unity.device-simulator.devices": "1.0.1",
-    "com.unity.ide.rider": "3.0.38",
+    "com.unity.editorcoroutines": "1.0.1",
+    "com.unity.ide.rider": "3.0.39",
     "com.unity.ide.visualstudio": "2.0.25",
     "com.unity.inputsystem": "1.16.0",
     "com.unity.multiplayer.center": "1.0.0",
     "com.unity.render-pipelines.universal": "17.2.0",
+    "com.unity.services.core": "1.16.0",
     "com.unity.splines": "2.8.3",
     "com.unity.test-framework": "1.6.0",
     "com.unity.timeline": "1.8.9",
@@ -50,6 +52,16 @@
     "com.unity.modules.video": "1.0.0",
     "com.unity.modules.vr": "1.0.0",
     "com.unity.modules.wind": "1.0.0",
-    "com.unity.modules.xr": "1.0.0"
+    "com.unity.modules.xr": "1.0.0",
+    "com.google.external-dependency-manager": "file:Custom/com.google.external-dependency-manager.tgz",
+    "com.google.android.appbundle": "file:Custom/com.google.android.appbundle.tgz",
+    "com.google.play.common": "file:Custom/com.google.play.common.tgz",
+    "com.google.play.core": "file:Custom/com.google.play.core.tgz",
+    "com.google.play.review": "file:Custom/com.google.play.review.tgz",
+    "com.google.firebase.app": "file:Custom/com.google.firebase.app.tgz",
+    "com.google.firebase.analytics": "file:Custom/com.google.firebase.analytics.tgz",
+    "com.google.firebase.remote-config": "file:Custom/com.google.firebase.remote-config.tgz",
+    "com.google.firebase.crashlytics": "file:Custom/com.google.firebase.crashlytics.tgz",
+    "com.google.firebase.messaging": "file:Custom/com.google.firebase.messaging.tgz"
   }
 }

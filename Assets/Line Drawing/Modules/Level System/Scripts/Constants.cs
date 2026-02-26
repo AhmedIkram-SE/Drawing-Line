@@ -6,10 +6,9 @@ public class LevelConstants : MonoBehaviour
     #region Variables Initialization
     private const string SavedLevelIndexKey = "SavedLevelIndex";
     private const string VibrationEnabledKey = "VibrationEnabled";
-    private const string SoundEnabledKey = "SoundEnabled";
-
+    private const string MusicEnabledKey = "MusicEnabled";
+    private const string SFXEnabledKey = "SFXEnabled";
     public static event Action OnSettingsChanged;
-    public static event Action OnCoinsChanged;     // Simple event that UI scripts can subscribe to
 
     #endregion
 
@@ -44,18 +43,32 @@ public class LevelConstants : MonoBehaviour
     }
 
     #endregion
+    
+    #region Music PlayerPrefs[
 
-    #region Sound PlayerPrefs
-
-    public static void setSoundEnabled(bool isEnabled)
+    public static void setMusicEnabled(bool isEnabled)
     {
-        PlayerPrefs.SetInt(SoundEnabledKey, isEnabled ? 1 : 0);
+        PlayerPrefs.SetInt(MusicEnabledKey, isEnabled ? 1 : 0);
         PlayerPrefs.Save();
-        OnSettingsChanged?.Invoke();
     }
-    public static bool getSoundEnabled()
+
+    public static bool getMusicEnabled()
     {
-        return PlayerPrefs.GetInt(SoundEnabledKey, 1) == 1;
+        return PlayerPrefs.GetInt(MusicEnabledKey, 1) == 1;
+    }
+    #endregion
+    
+    #region SFX PlayerPrefs[
+
+    public static void setSFXEnabled(bool isEnabled)
+    {
+        PlayerPrefs.SetInt(SFXEnabledKey, isEnabled ? 1 : 0);
+        PlayerPrefs.Save();
+    }
+
+    public static bool getSFXEnabled()
+    {
+        return PlayerPrefs.GetInt(SFXEnabledKey, 1) == 1;
     }
     #endregion
 

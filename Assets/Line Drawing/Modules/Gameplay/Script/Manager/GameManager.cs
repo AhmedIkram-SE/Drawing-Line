@@ -93,6 +93,7 @@ public class GameManager : MonoBehaviour
             Debug.Log($"Generating Level: {levels[_currentLevelIndex].levelName}");
             levelManager.GenerateLevelShape(levels[_currentLevelIndex]); // Level manager implementation
         }
+        AudioManager.Instance?.PlayMainMenuSound();
     }
 
     private void ExecuteSettings()
@@ -104,6 +105,7 @@ public class GameManager : MonoBehaviour
     {
         _levelEnded = true;
         levelManager.ClearLevel();
+        AudioManager.Instance.PlayLevelWin();
 
     }
     #endregion

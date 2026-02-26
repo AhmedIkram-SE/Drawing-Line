@@ -263,6 +263,7 @@ public class DrawingController : MonoBehaviour
 
     private void TriggerFailureFeedback()
     {
+        AudioManager.Instance.PlayLevelLose();
         if (_isResetting) return; // Prevent multiple triggers
         StartCoroutine(ResetSequence());
     }
@@ -273,7 +274,12 @@ public class DrawingController : MonoBehaviour
         _isDrawing = false; // Stop the player from drawing further
 
         // 1. Physical Feedback
-        Handheld.Vibrate();
+        if(LevelConstants.getVibrationEnabled())
+        {
+            #if UNITY_ANDROID || UNITY_IOS
+                Handheld.Vibrate();
+            #endif
+        }
         Debug.Log("Failed! Waiting for reset...");
 
         // 2. Visual Feedback (Optional: You could turn the line Red here)

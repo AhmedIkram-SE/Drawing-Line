@@ -1,5 +1,80 @@
 {
   "dependencies": {
+    "com.google.android.appbundle": {
+      "version": "file:Custom/com.google.android.appbundle.tgz",
+      "depth": 0,
+      "source": "local-tarball",
+      "dependencies": {}
+    },
+    "com.google.external-dependency-manager": {
+      "version": "file:Custom/com.google.external-dependency-manager.tgz",
+      "depth": 0,
+      "source": "local-tarball",
+      "dependencies": {}
+    },
+    "com.google.firebase.analytics": {
+      "version": "file:Custom/com.google.firebase.analytics.tgz",
+      "depth": 0,
+      "source": "local-tarball",
+      "dependencies": {
+        "com.google.firebase.app": "13.7.0"
+      }
+    },
+    "com.google.firebase.app": {
+      "version": "file:Custom/com.google.firebase.app.tgz",
+      "depth": 0,
+      "source": "local-tarball",
+      "dependencies": {
+        "com.google.external-dependency-manager": "1.2.186"
+      }
+    },
+    "com.google.firebase.crashlytics": {
+      "version": "file:Custom/com.google.firebase.crashlytics.tgz",
+      "depth": 0,
+      "source": "local-tarball",
+      "dependencies": {
+        "com.google.firebase.app": "13.7.0"
+      }
+    },
+    "com.google.firebase.messaging": {
+      "version": "file:Custom/com.google.firebase.messaging.tgz",
+      "depth": 0,
+      "source": "local-tarball",
+      "dependencies": {
+        "com.google.firebase.app": "13.7.0"
+      }
+    },
+    "com.google.firebase.remote-config": {
+      "version": "file:Custom/com.google.firebase.remote-config.tgz",
+      "depth": 0,
+      "source": "local-tarball",
+      "dependencies": {
+        "com.google.firebase.app": "13.7.0"
+      }
+    },
+    "com.google.play.common": {
+      "version": "file:Custom/com.google.play.common.tgz",
+      "depth": 0,
+      "source": "local-tarball",
+      "dependencies": {}
+    },
+    "com.google.play.core": {
+      "version": "file:Custom/com.google.play.core.tgz",
+      "depth": 0,
+      "source": "local-tarball",
+      "dependencies": {
+        "com.google.external-dependency-manager": "1.2.172"
+      }
+    },
+    "com.google.play.review": {
+      "version": "file:Custom/com.google.play.review.tgz",
+      "depth": 0,
+      "source": "local-tarball",
+      "dependencies": {
+        "com.google.play.common": "1.9.2",
+        "com.google.play.core": "1.8.5"
+      }
+    },
     "com.unity.2d.animation": {
       "version": "12.0.2",
       "depth": 0,
@@ -124,6 +199,13 @@
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
+    "com.unity.editorcoroutines": {
+      "version": "1.0.1",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {},
+      "url": "https://packages.unity.com"
+    },
     "com.unity.ext.nunit": {
       "version": "2.0.5",
       "depth": 1,
@@ -131,7 +213,7 @@
       "dependencies": {}
     },
     "com.unity.ide.rider": {
-      "version": "3.0.38",
+      "version": "3.0.39",
       "depth": 0,
       "source": "registry",
       "dependencies": {
@@ -175,6 +257,13 @@
     "com.unity.nuget.mono-cecil": {
       "version": "1.11.5",
       "depth": 2,
+      "source": "registry",
+      "dependencies": {},
+      "url": "https://packages.unity.com"
+    },
+    "com.unity.nuget.newtonsoft-json": {
+      "version": "3.2.1",
+      "depth": 1,
       "source": "registry",
       "dependencies": {},
       "url": "https://packages.unity.com"
@@ -227,6 +316,17 @@
       "depth": 2,
       "source": "registry",
       "dependencies": {},
+      "url": "https://packages.unity.com"
+    },
+    "com.unity.services.core": {
+      "version": "1.16.0",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.modules.androidjni": "1.0.0",
+        "com.unity.nuget.newtonsoft-json": "3.2.1",
+        "com.unity.modules.unitywebrequest": "1.0.0"
+      },
       "url": "https://packages.unity.com"
     },
     "com.unity.settings-manager": {
