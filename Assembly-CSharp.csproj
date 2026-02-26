@@ -71,6 +71,8 @@
     <Compile Include="Assets\Line Drawing\Modules\UI\Scripts\Manager\UIManager.cs" />
     <Compile Include="Assets\Line Drawing\Modules\Gameplay\Script\Manager\GameManager.cs" />
     <Compile Include="Assets\Line Drawing\Modules\Testing\Scripts\LineController.cs" />
+    <Compile Include="Assets\Line Drawing\Modules\Level System\Scripts\Constants.cs" />
+    <Compile Include="Assets\Line Drawing\Modules\UI\Scripts\Menus\LevelComplete.cs" />
     <Compile Include="Assets\Line Drawing\Modules\Gameplay\Script\Controller\DrawingController.cs" />
   </ItemGroup>
   <ItemGroup>

@@ -52,5 +52,17 @@ public class LevelManager : MonoBehaviour
             drawingController.SetupTracing(config.shapePoints);
         }
     }
+
+    public void ClearLevel()
+    {
+        if (_activeContainer != null)
+        {
+            foreach (Transform child in _activeContainer) 
+            {
+                Destroy(child.gameObject);
+            }
+        }
+        drawingController.ResetDrawing();
+    }
     #endregion
 }

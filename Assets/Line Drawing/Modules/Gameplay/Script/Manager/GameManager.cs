@@ -45,6 +45,8 @@ public class GameManager : MonoBehaviour
     {
         if (instance == null) instance = this;
         else Destroy(gameObject);
+
+        _currentLevelIndex = LevelConstants.getLevelIndex();
     }
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
@@ -53,11 +55,6 @@ public class GameManager : MonoBehaviour
         ChangeState(GameState.Gameplay);
     }
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
     #endregion
 
     #region State Methods
@@ -89,9 +86,11 @@ public class GameManager : MonoBehaviour
     {
         _levelEnded = false;
         Time.timeScale = 1;
+        _currentLevelIndex = LevelConstants.getLevelIndex();
 
         if (levels!=null && _currentLevelIndex < levels.Length)
         {
+            Debug.Log($"Generating Level: {levels[_currentLevelIndex].levelName}");
             levelManager.GenerateLevelShape(levels[_currentLevelIndex]); // Level manager implementation
         }
     }
@@ -104,17 +103,20 @@ public class GameManager : MonoBehaviour
     private void ExecuteLevelComplete()
     {
         _levelEnded = true;
+        levelManager.ClearLevel();
+
     }
     #endregion
 
     #region API Functions
 
-    void ProceedToNextLevel() // To be called by the nextlevel button
+    public void ProceedToNextLevel() // To be called by the nextlevel button
     {
         _currentLevelIndex++;
+        LevelConstants.setLevelIndex(_currentLevelIndex);
         if (_currentLevelIndex >= levels.Length)
-        {
-            _currentLevelIndex = 0;
+        { Debug.Log("All levels completed! Restarting from the first level.");
+            LevelConstants.setLevelIndex(0);
         }
         ChangeState(GameState.Gameplay);
     }
